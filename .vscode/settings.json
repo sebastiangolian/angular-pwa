@@ -1,0 +1,20 @@
+{
+  "files.exclude": {
+    "node_modules": true,
+    "tslint.json": true,
+    "tsconfig.spec.json": true,
+    "tsconfig.json": true,
+    "tsconfig.app.json": true,
+    "README.md": true,
+    "package-lock.json": true,
+    ".gitignore": true,
+    ".editorconfig": true,
+    ".browserslistrc": true,
+    "e2e": true,
+    "src\\favicon.ico": true,
+    "src\\polyfills.ts": true,
+    "src\\main.ts": true,
+    "src\\test.ts": true,
+    "src\\assets\\.gitkeep": true
+  }
+}
