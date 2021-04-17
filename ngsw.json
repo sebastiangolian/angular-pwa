@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1618686293064,
+  "timestamp": 1618686909241,
   "index": "/angular-pwa/index.html",
   "assetGroups": [
     {
@@ -52,7 +52,7 @@
     "/angular-pwa/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "/angular-pwa/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "/angular-pwa/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/angular-pwa/index.html": "9a817f69a61c3d8fe775e53585853a544ec71b31",
+    "/angular-pwa/index.html": "ab4d62893e2cd203a7807545469f1f38df879514",
     "/angular-pwa/main.3887ffb88ddb7c72ac6d.js": "211bc5d54f19a54b79a12821e3506977aac8352d",
     "/angular-pwa/manifest.webmanifest": "647db4fba4be264d65d1cbc9d3c6606d05610dcf",
     "/angular-pwa/polyfills.8c151b8375e767ff858f.js": "763cd3b34dfa4600ebb9d9588ec7116988e98920",
