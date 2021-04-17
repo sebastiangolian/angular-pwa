@@ -11,6 +11,11 @@ import { MatToolbarModule } from '@angular/material/toolbar';
     MatTableModule,
     MatPaginatorModule,
     MatToolbarModule
+  ],
+  exports: [
+    MatTableModule,
+    MatPaginatorModule,
+    MatToolbarModule
   ]
 })
 export class MaterialModule { }
