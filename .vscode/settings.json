@@ -15,6 +15,7 @@
     "src\\polyfills.ts": true,
     "src\\main.ts": true,
     "src\\test.ts": true,
-    "src\\assets\\.gitkeep": true
+    "src\\assets\\.gitkeep": true,
+    "dist": true
   }
 }
